@@ -1,4 +1,4 @@
-<h1 align="center"> IndiVUme </h1> <br>
+<h1 align="center"> IndiVUme </h1>
 <p align="center">
     <img alt="IndiVUme" title="IndiVUme" src="./Images/logo-bg.png" width="320">
 </p>
